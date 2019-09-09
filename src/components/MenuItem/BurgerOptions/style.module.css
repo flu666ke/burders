@@ -1,0 +1,31 @@
+.burgerOptions {
+    display: flex;
+    flex-direction: column;
+}
+.burgerOptions label {
+    padding: 10px;
+    display: block;
+}
+
+.burgerOptions span {
+    padding: 10px;
+    padding-top: 20px;
+}
+
+.btnSubmit button a {
+    text-decoration: none;
+    color: black;
+    font-size: 16px;
+}
+
+.btnSubmit button {
+    margin-top: 10px;
+    padding: 5px;
+    border-radius: 5px;
+    transition: 1s;
+}
+
+.btnSubmit button:hover {
+    background: rgb(248, 197, 119);
+    transition: 1s;
+}

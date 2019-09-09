@@ -1,0 +1,4 @@
+-write in the terminal:
+json-server --watch db.json
+yarn start
+Yes

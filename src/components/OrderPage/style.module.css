@@ -1,0 +1,19 @@
+.finishOrder button {
+    width: 300px;
+    margin: 20px;
+    padding: 15px;
+    font-size: 30px;
+    border-radius: 10px;
+    box-shadow: 0px 0px 4px 1px black;
+}
+
+.finishOrder button a {
+    text-decoration: none;
+    color: black;
+}
+
+.finishOrder {
+    margin-top: 50px;
+    margin-left: 32%;
+    margin-bottom: 70%;
+}

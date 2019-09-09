@@ -1,0 +1,9 @@
+
+.burgerOptions {
+    display: flex;
+    flex-direction: column;
+}
+
+img {
+    display: block;
+}

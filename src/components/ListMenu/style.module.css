@@ -1,0 +1,17 @@
+.menu  h1 {
+    text-align: center;
+    font-size: 44px;
+}
+
+.menuList {
+    margin: auto;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    margin-bottom: 19%;
+}
+
+.menuList a {
+    color: rgb(3, 0, 34);
+    text-decoration: none;
+}
