@@ -37,5 +37,22 @@
       "salad": false
     }
   ],
-  "orders": []
+  "orders": [
+    {
+      "body": "{\"name\":\"Cheeseburger\",\"OrderOptions\":{\"sauce\":true,\"cheese\":true,\"cutlet\":true,\"salad\":false}}",
+      "id": 2
+    },
+    {
+      "body": "{\"name\":\"Cheeseburger\",\"OrderOptions\":{\"sauce\":false,\"cheese\":false,\"cutlet\":false,\"salad\":false}}",
+      "id": 3
+    },
+    {
+      "body": "{\"name\":\"McChiken\",\"OrderOptions\":{\"sauce\":false,\"cheese\":false,\"cutlet\":false,\"salad\":false}}",
+      "id": 4
+    },
+    {
+      "body": "{\"name\":\"McChiken\",\"OrderOptions\":{\"sauce\":false,\"cheese\":false,\"cutlet\":false,\"salad\":false}}",
+      "id": 5
+    }
+  ]
 }
